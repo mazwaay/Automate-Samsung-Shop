@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>TextView - No trade-in Get an extra 100 off instantly</name>
+   <name>android.view.View - No trade-in  Get an extra 100 off instantly</name>
    <tag></tag>
-   <elementGuidId>70e5b7e8-393f-4a17-a8a1-f7e9177ed275</elementGuidId>
+   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,25 +11,25 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.TextView</value>
-      <webElementGuid>7ea2ff60-1903-4ba8-8ff2-d521b44ab6e5</webElementGuid>
+      <value>android.view.View</value>
+      <webElementGuid>e701589a-c6bd-4a20-a1c7-174e5a3445d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>10</value>
-      <webElementGuid>b98c932a-dd51-4a6e-b157-e4f4c0116dfe</webElementGuid>
+      <value>2</value>
+      <webElementGuid>79a67064-ffde-474a-be97-ed3ed3db2077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>No trade-in ?
+      <value>No trade-in ? 
 Get an extra $100 off instantly.</value>
-      <webElementGuid>c32a8101-010c-4bd5-b7fc-7a53626ab082</webElementGuid>
+      <webElementGuid>16d319b9-a0d4-47bd-9c51-bab06f2bbb6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@ Get an extra $100 off instantly.</value>
       <name>resource-id</name>
       <type>Main</type>
       <value>tradeinOptionNo</value>
-      <webElementGuid>d954db92-832c-4692-bdd5-e733e2d31e3e</webElementGuid>
+      <webElementGuid>26e324dc-3e10-494d-ac00-03a28beadde1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@ Get an extra $100 off instantly.</value>
       <name>package</name>
       <type>Main</type>
       <value>com.samsung.ecomm</value>
-      <webElementGuid>bf8ff8ad-2c2f-48c1-936d-4d6f84e9c6ee</webElementGuid>
+      <webElementGuid>2fbe9776-5e21-49a4-b2ac-f764140a16b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@ Get an extra $100 off instantly.</value>
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>19ca72b9-5dbc-4e5f-9713-37efa825dfb4</webElementGuid>
+      <webElementGuid>d14e2f19-3c88-46f9-a3d9-64750054b23c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@ Get an extra $100 off instantly.</value>
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>83120e24-0a64-4a59-9e65-cbd449517d1f</webElementGuid>
+      <webElementGuid>e5368618-05a2-4958-a70d-3d3833967a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@ Get an extra $100 off instantly.</value>
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>14aea448-b274-4e82-8666-04a5dd16b22f</webElementGuid>
+      <webElementGuid>bd9fa2a8-4ff5-41f9-9315-f7a8f2ea6f23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@ Get an extra $100 off instantly.</value>
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2d4bc271-bebc-4d58-8b5b-b96b299b4021</webElementGuid>
+      <webElementGuid>03e099b2-6ff1-4cf2-a1fa-3330e60fb9dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@ Get an extra $100 off instantly.</value>
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>50ca4a46-3131-4881-946e-4b7cab9cadd0</webElementGuid>
+      <webElementGuid>58d3efbb-066f-4b18-a39f-3017499e184d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@ Get an extra $100 off instantly.</value>
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d72c2bbb-a589-457d-9df1-719ea6d7e9e7</webElementGuid>
+      <webElementGuid>73fdff08-7493-4704-abb3-c3af4f59b2ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@ Get an extra $100 off instantly.</value>
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>73a461f2-065f-4b22-b08c-994061a27127</webElementGuid>
+      <webElementGuid>94edfb5b-837e-4662-b65b-c8cebabd10e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@ Get an extra $100 off instantly.</value>
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fe4b2de2-cdfe-418e-a6e2-fc7734643896</webElementGuid>
+      <webElementGuid>fe73adb3-af31-458d-8a73-aec55852fa35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@ Get an extra $100 off instantly.</value>
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>052c1e9f-1ef9-464e-a02d-8bd975b97134</webElementGuid>
+      <webElementGuid>ae128a66-1394-4ad1-8bbf-e21e2f47d8af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@ Get an extra $100 off instantly.</value>
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>97283f73-2058-4d4e-becd-14b38d2b7fd0</webElementGuid>
+      <webElementGuid>ca2080f0-5d30-477d-8944-1c4eea2311ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,15 +133,15 @@ Get an extra $100 off instantly.</value>
       <name>x</name>
       <type>Main</type>
       <value>72</value>
-      <webElementGuid>e48331e3-8eaa-4e07-b2d8-4bda3b2e86bd</webElementGuid>
+      <webElementGuid>cbd22d97-4f19-45d3-97b3-281a89b35705</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1674</value>
-      <webElementGuid>fa5766ea-6d1d-4ff1-8623-d30c9ca856c7</webElementGuid>
+      <value>927</value>
+      <webElementGuid>fe5e6bd8-990b-4b9a-94c4-4c7f0712ad7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,23 +149,23 @@ Get an extra $100 off instantly.</value>
       <name>width</name>
       <type>Main</type>
       <value>936</value>
-      <webElementGuid>ae624ffc-82b7-450d-9cbb-7510edabc5da</webElementGuid>
+      <webElementGuid>94ef443e-826b-47b4-8a53-8920d8096418</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>195</value>
-      <webElementGuid>fa590f46-2d03-4a16-b398-592294007efc</webElementGuid>
+      <value>192</value>
+      <webElementGuid>118fd225-d9cc-4161-9171-66800a62deda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[72,1674][1008,1869]</value>
-      <webElementGuid>0e39da7d-9058-42f9-96a4-83035b62cfdc</webElementGuid>
+      <value>[72,927][1008,1119]</value>
+      <webElementGuid>0b150ef3-43e0-4aa4-8a72-f796fcb1ac1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,18 +173,18 @@ Get an extra $100 off instantly.</value>
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>326819d6-9cda-4ac8-8a62-c2f4821a16f0</webElementGuid>
+      <webElementGuid>0ab373a1-1a53-43a9-a2c2-3ad6a033012b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/androidx.drawerlayout.widget.DrawerLayout[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.webkit.WebView[1]/android.webkit.WebView[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.TextView[4]</value>
-      <webElementGuid>7fcac152-f22c-4350-b1b9-6ef6961b365c</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/androidx.drawerlayout.widget.DrawerLayout[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.webkit.WebView[1]/android.webkit.WebView[1]/android.view.View[2]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[1]/android.view.View[11]/android.view.View[6]/android.view.View[1]/android.view.View[3]</value>
+      <webElementGuid>1d2627e7-4d0b-4024-8116-68828231bc34</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and @index = '10' and (@text = 'No trade-in ?
-Get an extra $100 off instantly.' or . = 'No trade-in ?
+   <locator>//*[@class = 'android.view.View' and (@text = 'No trade-in ? 
+Get an extra $100 off instantly.' or . = 'No trade-in ? 
 Get an extra $100 off instantly.') and @resource-id = 'tradeinOptionNo']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>
