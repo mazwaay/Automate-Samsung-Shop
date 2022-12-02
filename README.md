@@ -1,4 +1,4 @@
-# Automate Samsung App
+# Automate Samsung Shop App version 1.0.29030
 
 💻 Pre-requisites\
 Node JS        : v18.12.1\
