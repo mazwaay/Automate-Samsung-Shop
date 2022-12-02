@@ -6,7 +6,7 @@ Appium         : v1.22.3\
 Katalon        : v8.5.2\
 Android Studio : v2021.3.1.17 (for emulator)
 
-💻 Emulator Studio Version
+💻 Emulator Studio Type
 - Google Pixel - Android 10
 
 Run the demo:
