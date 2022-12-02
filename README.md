@@ -11,5 +11,5 @@ Android Studio : v2021.3.1.17 (for emulator)
 
 Run the demo:
 1. Clone this project
-2. Run **Test Cases folder or Test Suites**\
+2. Run **Test Cases folder or Test Suites**
 3. Check Reports for the results
