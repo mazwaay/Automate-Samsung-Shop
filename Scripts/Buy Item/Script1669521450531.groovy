@@ -22,27 +22,61 @@ import com.kms.katalon.core.util.internal.PathUtil as PathUtil
 Mobile.startExistingApplication('com.samsung.ecomm', FailureHandling.STOP_ON_FAILURE)
 
 Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
 Mobile.swipe(700, 900, 50, 900)
+
 Mobile.tap(findTestObject('MobileObject/getStarted.Button'), 10)
+
 Mobile.tap(findTestObject('MobileObject/closeButton_Popup'), 10)
+
 Mobile.tap(findTestObject('MobileObject/Shop_Button'), 10)
+
 Mobile.delay(30, FailureHandling.STOP_ON_FAILURE)
+
 Mobile.tap(findTestObject('MobileObject/ImagePhones'), 10)
+
 Mobile.tap(findTestObject('MobileObject/ImageView - Galaxy Z'), 10)
+
 Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
 'Random position'
 Mobile.tapAtPosition(850, 550)
-Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
-Mobile.tap(findTestObject('MobileObject/ImageView - Galaxy Z Fold4'), 10)
-Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
-Mobile.tap(findTestObject('MobileObject/TextView_BUY NOW'), 10)
-Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
-Mobile.scrollToText('No trade-in ?', FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('MobileObject/TextView - No trade-in Get an extra 100 off instantly'), 10)
-'Tap at 830,2150 position'
-Mobile.tapAtPosition(830, 1990)
-Mobile.tap(findTestObject('MobileObject/Skip-add-ons_Button'), 10)
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('MobileObject/ImageView - Galaxy Z Fold4'), 10)
+
+Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('MobileObject/TextView_BUY NOW'), 10)
+
+Mobile.delay(20, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.swipe(550, 1900, 550, 125)
+
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.swipe(550, 1900, 550, 250)
+
+Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('MobileObject/noTrade'), 10)
+
+Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+'Tap button Continue'
+Mobile.tapAtPosition(830, 2130)
+
+Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+'Tap button Skip add-ons'
+Mobile.tapAtPosition(330, 2170)
+
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
 Mobile.tap(findTestObject('MobileObject/TextView - CHECKOUT'), 10)
+
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
 Mobile.verifyElementText(findTestObject('MobileObject/verifyText - CHECKOUT'), 'CHECKOUT')
 

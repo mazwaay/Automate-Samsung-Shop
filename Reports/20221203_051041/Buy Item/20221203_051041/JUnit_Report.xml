@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Buy Item" time="122.48" tests="1" failures="0" errors="0">
+   <testsuite name="Buy Item" tests="1" failures="0" errors="0" time="122.48" skipped="0" timestamp="2022-12-03 05:10:45" hostname="Mazway - 192.168.196.108" id="Test Suites/Buy Item">
+      <properties>
+         <property name="deviceName" value="emulator-5554 (Android SDK built for x86 - Android 10)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Mazway\\Documents\\QA Engineer\\Katalon Sample Project\\Automate-Samsung-Shop2\\Reports\\20221203_051041\\Buy Item\\20221203_051041"/>
+         <property name="logFiles" value="C:\\Users\\Mazway\\Documents\\QA Engineer\\Katalon Sample Project\\Automate-Samsung-Shop2\\Reports\\20221203_051041\\Buy Item\\20221203_051041\\appium.log, C:\\Users\\Mazway\\Documents\\QA Engineer\\Katalon Sample Project\\Automate-Samsung-Shop2\\Reports\\20221203_051041\\Buy Item\\20221203_051041\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Mazway - 192.168.196.108"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="Android SDK built for x86"/>
+         <property name="hostAddress" value="192.168.196.108"/>
+         <property name="deviceManufacturer" value="Google"/>
+         <property name="deviceId" value="emulator-5554"/>
+         <property name="deviceName" value="emulator-5554 (Android SDK built for x86 - Android 10)"/>
+         <property name="deviceOSVersion" value="10"/>
+      </properties>
+      <testcase name="Test Cases/Buy Item" time="122.17" classname="Test Cases/Buy Item" status="PASSED">
+         <system-out><![CDATA[2022-12-03 05:10:45 - [TEST_CASE][PASSED] - Test Cases/Buy Item: Test Cases/Buy Item
+
+2022-12-03 05:10:46 - [TEST_STEP][PASSED] - startExistingApplication("com.samsung.ecomm", STOP_ON_FAILURE): Starting app with application ID: 'com.samsung.ecomm'
+
+2022-12-03 05:10:46 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2022-12-03 05:10:48 - [MESSAGE][INFO] - Appium server started on port 60,280
+
+2022-12-03 05:10:57 - [MESSAGE][PASSED] - Starting app with application ID: 'com.samsung.ecomm'
+
+2022-12-03 05:10:57 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2022-12-03 05:11:02 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-12-03 05:11:02 - [TEST_STEP][PASSED] - swipe(700, 900, 50, 900): Swiped from 700,900 to 50,900
+
+2022-12-03 05:11:04 - [MESSAGE][PASSED] - Swiped from 700,900 to 50,900
+
+2022-12-03 05:11:04 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/getStarted.Button"), 10): Tapped on element 'Object Repository/MobileObject/getStarted.Button'
+
+2022-12-03 05:11:05 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/getStarted.Button'
+
+2022-12-03 05:11:05 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/closeButton_Popup"), 10): Tapped on element 'Object Repository/MobileObject/closeButton_Popup'
+
+2022-12-03 05:11:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/closeButton_Popup'
+
+2022-12-03 05:11:09 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/Shop_Button"), 10): Tapped on element 'Object Repository/MobileObject/Shop_Button'
+
+2022-12-03 05:11:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/Shop_Button'
+
+2022-12-03 05:11:10 - [TEST_STEP][PASSED] - delay(30, STOP_ON_FAILURE): Delayed 30 second(s)
+
+2022-12-03 05:11:40 - [MESSAGE][PASSED] - Delayed 30 second(s)
+
+2022-12-03 05:11:40 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/ImagePhones"), 10): Tapped on element 'Object Repository/MobileObject/ImagePhones'
+
+2022-12-03 05:11:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/ImagePhones'
+
+2022-12-03 05:11:40 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/ImageView - Galaxy Z"), 10): Tapped on element 'Object Repository/MobileObject/ImageView - Galaxy Z'
+
+2022-12-03 05:11:41 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/ImageView - Galaxy Z'
+
+2022-12-03 05:11:41 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2022-12-03 05:11:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-12-03 05:11:44 - [TEST_STEP][PASSED] - tapAtPosition(850, 550): Tapped at [850, 550]
+
+2022-12-03 05:11:44 - [MESSAGE][PASSED] - Tapped at [850, 550]
+
+2022-12-03 05:11:44 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2022-12-03 05:11:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-12-03 05:11:47 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/ImageView - Galaxy Z Fold4"), 10): Tapped on element 'Object Repository/MobileObject/ImageView - Galaxy Z Fold4'
+
+2022-12-03 05:11:48 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/ImageView - Galaxy Z Fold4'
+
+2022-12-03 05:11:48 - [TEST_STEP][PASSED] - delay(10, STOP_ON_FAILURE): Delayed 10 second(s)
+
+2022-12-03 05:11:58 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2022-12-03 05:11:58 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/TextView_BUY NOW"), 10): Tapped on element 'Object Repository/MobileObject/TextView_BUY NOW'
+
+2022-12-03 05:11:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/TextView_BUY NOW'
+
+2022-12-03 05:11:58 - [TEST_STEP][PASSED] - delay(20, STOP_ON_FAILURE): Delayed 20 second(s)
+
+2022-12-03 05:12:18 - [MESSAGE][PASSED] - Delayed 20 second(s)
+
+2022-12-03 05:12:18 - [TEST_STEP][PASSED] - swipe(550, 1900, 550, 125): Swiped from 550,1,900 to 550,125
+
+2022-12-03 05:12:19 - [MESSAGE][PASSED] - Swiped from 550,1,900 to 550,125
+
+2022-12-03 05:12:19 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2022-12-03 05:12:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-12-03 05:12:22 - [TEST_STEP][PASSED] - swipe(550, 1900, 550, 250): Swiped from 550,1,900 to 550,250
+
+2022-12-03 05:12:24 - [MESSAGE][PASSED] - Swiped from 550,1,900 to 550,250
+
+2022-12-03 05:12:24 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2022-12-03 05:12:29 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-12-03 05:12:29 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/noTrade"), 10): Tapped on element 'Object Repository/MobileObject/noTrade'
+
+2022-12-03 05:12:30 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/noTrade'
+
+2022-12-03 05:12:30 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2022-12-03 05:12:35 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-12-03 05:12:35 - [TEST_STEP][PASSED] - tapAtPosition(830, 2130): Tapped at [830, 2,130]
+
+2022-12-03 05:12:35 - [MESSAGE][PASSED] - Tapped at [830, 2,130]
+
+2022-12-03 05:12:35 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2022-12-03 05:12:40 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-12-03 05:12:40 - [TEST_STEP][PASSED] - tapAtPosition(330, 2170): Tapped at [330, 2,170]
+
+2022-12-03 05:12:41 - [MESSAGE][PASSED] - Tapped at [330, 2,170]
+
+2022-12-03 05:12:41 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2022-12-03 05:12:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-12-03 05:12:44 - [TEST_STEP][PASSED] - tap(findTestObject("MobileObject/TextView - CHECKOUT"), 10): Tapped on element 'Object Repository/MobileObject/TextView - CHECKOUT'
+
+2022-12-03 05:12:44 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileObject/TextView - CHECKOUT'
+
+2022-12-03 05:12:44 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2022-12-03 05:12:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-12-03 05:12:47 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("MobileObject/verifyText - CHECKOUT"), "CHECKOUT"): Actual text and expected text of test object 'Object Repository/MobileObject/verifyText - CHECKOUT' are matched.
+
+2022-12-03 05:12:47 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/MobileObject/verifyText - CHECKOUT' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-03 05:10:45 - [TEST_SUITE][PASSED] - Buy Item: Test Cases/Buy Item]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
